@@ -1,5 +1,5 @@
-texture-prediction
-==================
+texture-synthesis
+=================
 
 Author: Vladan Nikolic
 
